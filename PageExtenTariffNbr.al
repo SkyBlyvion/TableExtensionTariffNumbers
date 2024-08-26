@@ -1,4 +1,4 @@
-pageextension 50031 MyPageExtension extends "Tariff Numbers"
+pageextension 50031 "ExtenTable260TariffNumber" extends "Tariff Numbers"
 {
     layout
     {
