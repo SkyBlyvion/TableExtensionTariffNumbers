@@ -1,4 +1,4 @@
-pageextension 50031 "ExtenTable260TariffNumber" extends "Tariff Numbers"
+pageextension 50152 TariffNumber260 extends "Tariff Numbers"
 {
     layout
     {
@@ -7,7 +7,7 @@ pageextension 50031 "ExtenTable260TariffNumber" extends "Tariff Numbers"
             field("TEC"; Rec."TEC")
             {
                 ApplicationArea = All;
-                Caption = 'TEC';
+                ToolTip = 'Tariff Number';
             }
         }
     }

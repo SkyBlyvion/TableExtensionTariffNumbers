@@ -1,10 +1,10 @@
 {
   "id": "6db3fcc3-d445-442d-b502-9bf21fa38d38",
   "name": "ExtenTable260TariffNumber",
-  "publisher": "Lopez Nicolas",
-  "version": "1.0.0.4",
-  "brief": "",
-  "description": "",
+  "publisher": "Lopez Nicolas - REVIMPORT",
+  "version": "1.0.0.5",
+  "brief": "Améliore la gestion des classifications tarifaires douanières et des données associées dans Business Central.",
+  "description": "Cette extension intègre et étend les fonctionnalités de gestion des tarifs douaniers en ajoutant une nouvelle table 'Nomenclature Douanière' liée aux numéros tarifaires existants. Elle permet aux utilisateurs de gérer et de relier les données de nomenclature douanière, y compris les codes d'origine, les taux réduits de douane, et les exigences de conformité, avec des numéros tarifaires spécifiques.",
   "privacyStatement": "",
   "EULA": "",
   "help": "",
@@ -16,8 +16,8 @@
   "application": "24.0.0.0",
   "idRanges": [
     {
-      "from": 50030,
-      "to": 50031
+      "from": 50151,
+      "to": 50170
     }
   ],
   "resourceExposurePolicy": {

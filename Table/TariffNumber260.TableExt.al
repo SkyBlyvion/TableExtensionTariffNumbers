@@ -1,4 +1,4 @@
-tableextension 50030 TableExtenTariffNbr extends "Tariff Number"
+tableextension 50151 TariffNumber260 extends "Tariff Number"
 {
     fields
     {
