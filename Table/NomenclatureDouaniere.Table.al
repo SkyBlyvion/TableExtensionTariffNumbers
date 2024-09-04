@@ -37,7 +37,7 @@ table 50153 NomenclatureDouaniere
 
     keys
     {
-        key(PK; "N° nomenclature douanière")
+        key(PK; "N° nomenclature douanière", "Code pays origine")
         {
             Clustered = true;
         }
